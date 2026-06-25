@@ -130,7 +130,10 @@ address** to earn.
 ## Links
 
 - **Play:** https://kuflordoooo.github.io/Uton/
-
+- **X:**
+  https://x.com/UtonGame
+- **Website:**
+  https://utongame.org/
 
 ---
 
