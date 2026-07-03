@@ -7,7 +7,7 @@ African roots and a play-to-earn layer on **Solana**.
 You face a masquerade spirit across the cities, deserts and seas of the world. Dodge,
 survive, defeat it, and chase a high score worth real **$utoñ** rewards.
 
-**▶ Play now:** https://kuflordoooo.github.io/Uton/
+**▶ Play now:** https://utongame.org/
 
 ---
 
@@ -129,7 +129,6 @@ address** to earn.
 
 ## Links
 
-- **Play:** https://kuflordoooo.github.io/Uton/
 - **X:**
   https://x.com/UtonGame
 - **Website:**
