@@ -77,7 +77,7 @@ Credits you collect during a run are spent in the **upgrade store**, which opens
 forced to wait for a checkpoint to power up.
 
 Upgrades available:
-- **Power Shot** — +1 shot damage
+- **Hilda Shot** — +1 shot damage
 - **Rapid Blaster** — fire faster
 - **Extra Barrel** — +1 bolt per shot
 - **Nimble** — shrink your hitbox
@@ -124,6 +124,8 @@ address** to earn.
 - Deeper late-game difficulty and boss variety
 - More world stages
 - Expanded leaderboard and rewards
+
+  
 © 2026 utoñ. All Rights Reserved.
 
 This project — including its source code, game design, artwork, characters (the utoñ masquerade), the "utoñ" name and branding, and all related assets — is the exclusive property of the utoñ project and its creator.
