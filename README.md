@@ -124,7 +124,17 @@ address** to earn.
 - Deeper late-game difficulty and boss variety
 - More world stages
 - Expanded leaderboard and rewards
+© 2026 utoñ. All Rights Reserved.
 
+This project — including its source code, game design, artwork, characters (the utoñ masquerade), the "utoñ" name and branding, and all related assets — is the exclusive property of the utoñ project and its creator.
+
+No license is granted. You may not copy, reproduce, host, mirror, redistribute, modify, rebrand, decompile, or create derivative works from any part of this project, in whole or in part, without prior written permission.
+
+Viewing the site in a browser does not grant any right to reuse its code or assets.
+
+Unauthorized copies, clones, or rehosted versions are infringing and may be subject to takedown (including DMCA) and other action.
+
+For permissions or inquiries, contact the utoñ project via @UtonGame.
 ---
 
 ## Links
